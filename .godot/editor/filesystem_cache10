@@ -1,36 +1,40 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757927659
+::res://::1757933427
+export_presets.cfg::TextFile::-1::1757933427::0::1::::<><><>0<>0<><>::
+floortexture.tres::BoxMesh::1248085296514017223::1757930579::0::1::::<><><>0<>0<><>::uid://e7e51qjrb8mo::::res://art/checkboard.png
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757792235::1757792277::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 main.gd::GDScript/GDScript::3556508046597672111::1757873316::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::5909878587141647705::1757927659::0::1::::<><><>0<>0<><>::uid://bqw2fyd0bmhnj::::res://main.gd<>uid://bcj5m4cbl7dnr::::res://player.tscn<>uid://6w7ywqsy5kfe::::res://mob.tscn<>uid://r1t1us3jdc2b::::res://floortexture.tres<>uid://bnx24xrlxpyev::::res://ui_theme.tres<>uid://bypnj6sfkfx2q::::res://art/Desert stone.glb<>uid://bpmixkxoct5iy::::res://art/Prickly pear cactus.glb<>uid://dx0lgif1ahhpo::::res://art/Barrel cactus.glb<>uid://b5hfgtite1csh::::res://scorelabel.gd
-mob.gd::GDScript::4370557847014519854::1757877574::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::2223257447272237702::1757927659::0::1::::<><><>0<>0<><>::uid://cp2skf64y0fp3::::res://art/Cactoro.glb<>uid://b3jepjjd5n6ri::::res://mob.gd
-music_player.tscn::PackedScene::1535445601333015521::1757927659::0::1::::<><><>0<>0<><>::uid://dv7dcofypcsn3::::res://art/game-music-loop-17.ogg
-player.gd::GDScript::6032948435504845309::1757919164::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::2547222236393716263::1757927659::0::1::::<><><>0<>0<><>::uid://sar04tgaxrig::::res://art/Animated Platformer Character.glb<>uid://cr7n1q46j6mt6::::res://player.gd
-floortexture.tres::BoxMesh::1248085296514017223::1757923409::0::1::::<><><>0<>0<><>::uid://e7e51qjrb8mo::::res://art/checkboard.png
+main.tscn::PackedScene::5909878587141647705::1757931168::0::1::::<><><>0<>0<><>::uid://bqw2fyd0bmhnj::::res://main.gd<>uid://bcj5m4cbl7dnr::::res://player.tscn<>uid://6w7ywqsy5kfe::::res://mob.tscn<>uid://r1t1us3jdc2b::::res://floortexture.tres<>uid://bnx24xrlxpyev::::res://ui_theme.tres<>uid://bypnj6sfkfx2q::::res://art/Desert stone.glb<>uid://bpmixkxoct5iy::::res://art/Prickly pear cactus.glb<>uid://dx0lgif1ahhpo::::res://art/Barrel cactus.glb<>uid://b5hfgtite1csh::::res://scorelabel.gd
+mob.gd::GDScript/GDScript::4370557847014519854::1757877574::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::2223257447272237702::1757931124::0::1::::<><><>0<>0<><>::uid://cp2skf64y0fp3::::res://art/Cactoro.glb<>uid://b3jepjjd5n6ri::::res://mob.gd
+music_player.tscn::PackedScene::1535445601333015521::1757931124::0::1::::<><><>0<>0<><>::uid://cuy08ahanv6x::::res://art/game-challenge-scene-music.ogg
+player.gd::GDScript/GDScript::6032948435504845309::1757919164::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::2547222236393716263::1757931124::0::1::::<><><>0<>0<><>::uid://sar04tgaxrig::::res://art/Animated Platformer Character.glb<>uid://cr7n1q46j6mt6::::res://player.gd
 scorelabel.gd::GDScript/GDScript::4506851948011484003::1757872094::0::1::::<>Label<><>0<>0<><>::
-ui_theme.tres::Theme::3348048720988704645::1757922980::0::1::::<><><>0<>0<><>::uid://dq64qsirx4y87::::res://fonts/THSarabunNew Bold.ttf
-::res://art/::1757927820
+ui_theme.tres::Theme/Theme::3348048720988704645::1757922980::0::1::::<><><>0<>0<><>::uid://dq64qsirx4y87::::res://fonts/THSarabunNew Bold.ttf
+::res://art/::1757929570
 Animated Platformer Character.glb::PackedScene/PackedScene::1264477572011209746::1757877676::1757877677::1::::<><><>0<>0<>35f2a6e878b943cb5db37cdc0c188f89<>res://.godot/imported/Animated Platformer Character.glb-1bef630a962faf541eb5b5ffeb550795.scn::
-Barrel cactus.glb::PackedScene::8825893929381830880::1757921797::1757921800::1::::<><><>0<>0<>8d8194a93a6c433cf147aa651eb6531c<>res://.godot/imported/Barrel cactus.glb-9d38e927bd0ad71c6e2aab948e114bc8.scn::uid://cb8iejigwy4dq::::res://art/Barrel cactus_BarrelCactus_BaseColor.png
+Barrel cactus.glb::PackedScene/PackedScene::8825893929381830880::1757921797::1757921800::1::::<><><>0<>0<>8d8194a93a6c433cf147aa651eb6531c<>res://.godot/imported/Barrel cactus.glb-9d38e927bd0ad71c6e2aab948e114bc8.scn::uid://cb8iejigwy4dq::::res://art/Barrel cactus_BarrelCactus_BaseColor.png
+Barrel cactus_BarrelCactus_BaseColor.png::CompressedTexture2D/CompressedTexture2D::4911648041397533898::1757921798::1757921801::1::::<><><>0<>0<>1099568013c84175c95485fb8d6fc259<>res://.godot/imported/Barrel cactus_BarrelCactus_BaseColor.png-4582db27db1aca748bc39d4e3ee2aa72.s3tc.ctex::
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757792235::0::1::::<><><>0<>0<><>::
 Cactoro.glb::PackedScene/PackedScene::5882523296981523030::1757841134::1757841135::1::::<><><>0<>0<>5ebe6421c011a448b55c1cb274e5a691<>res://.godot/imported/Cactoro.glb-dbe77e4558a822aeb90909c2eaa48c72.scn::
-checkboard.png::CompressedTexture2D::347113295225943906::1757920293::1757920301::1::::<><><>0<>0<>7b926ca7a31f6c1bf715854a8af3fe90<>res://.godot/imported/checkboard.png-738ae4fcb16ae520b174c86d2d1f1dde.s3tc.ctex::
-Desert stone.glb::PackedScene::4102725646638981482::1757922073::1757922076::1::::<><><>0<>0<>be94f46d73fd04bc91008638a42c5830<>res://.godot/imported/Desert stone.glb-07d820b1f4bd080f5b2afe26df2060e9.scn::
+checkboard.png::CompressedTexture2D/CompressedTexture2D::347113295225943906::1757920293::1757920301::1::::<><><>0<>0<>7b926ca7a31f6c1bf715854a8af3fe90<>res://.godot/imported/checkboard.png-738ae4fcb16ae520b174c86d2d1f1dde.s3tc.ctex::
+Desert stone.glb::PackedScene/PackedScene::4102725646638981482::1757922073::1757922076::1::::<><><>0<>0<>be94f46d73fd04bc91008638a42c5830<>res://.godot/imported/Desert stone.glb-07d820b1f4bd080f5b2afe26df2060e9.scn::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757792235::0::1::::<><><>0<>0<><>::
-game-challenge-scene-music.ogg::AudioStreamOggVorbis::183168828620416849::1757927820::1757927821::1::::<><><>0<>0<>70bf0b14aa0a21e6fb89cbb1a1fbdcca<>res://.godot/imported/game-challenge-scene-music.ogg-0e7b62d584c8de301636ec8e86cbb850.oggvorbisstr::
-game-music-loop-17.ogg::AudioStreamOggVorbis::8699474322335524446::1757927635::1757927635::1::::<><><>0<>0<>f029f9903a9b16b477b9539d88bdd24a<>res://.godot/imported/game-music-loop-17.ogg-8221150f70b5b12aa10fa6143f95d70f.oggvorbisstr::
+game-challenge-scene-music.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::183168828620416849::1757927820::1757927821::1::::<><><>0<>0<>70bf0b14aa0a21e6fb89cbb1a1fbdcca<>res://.godot/imported/game-challenge-scene-music.ogg-0e7b62d584c8de301636ec8e86cbb850.oggvorbisstr::
 House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6912470962729766485::1757792235::1757792277::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
 mob.glb::PackedScene/PackedScene::2952940687663745631::1757792235::1757792277::1::::<><><>0<>0<>a780a1250ec97030b0168a6a0460c3f3<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
 mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757792235::0::1::::<><><>0<>0<><>::
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757792235::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1757792235::1757792277::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
-Prickly pear cactus.glb::PackedScene::3464553241917801816::1757921672::1757921675::1::::<><><>0<>0<>164037793b3f88e1315f3a8477e603f0<>res://.godot/imported/Prickly pear cactus.glb-14a5cd2f9c9879dae177a85581845f1d.scn::uid://dj8r66gvwayyb::::res://art/Prickly pear cactus_PUSHILIN_prickly_pear_cactus.png
+Prickly pear cactus.glb::PackedScene/PackedScene::3464553241917801816::1757921672::1757921675::1::::<><><>0<>0<>164037793b3f88e1315f3a8477e603f0<>res://.godot/imported/Prickly pear cactus.glb-14a5cd2f9c9879dae177a85581845f1d.scn::uid://dj8r66gvwayyb::::res://art/Prickly pear cactus_PUSHILIN_prickly_pear_cactus.png
+Prickly pear cactus_PUSHILIN_prickly_pear_cactus.png::CompressedTexture2D/CompressedTexture2D::7860175296669901713::1757921673::1757921676::1::::<><><>0<>0<>57034826d3b15b80f569803b0753a48f<>res://.godot/imported/Prickly pear cactus_PUSHILIN_prickly_pear_cactus.png-ef19642022781c9c49031d220017a90d.s3tc.ctex::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757792235::0::1::::<><><>0<>0<><>::
-Prickly pear cactus_PUSHILIN_prickly_pear_cactus.png::CompressedTexture2D::7860175296669901713::1757921673::1757921676::1::::<><><>0<>0<>57034826d3b15b80f569803b0753a48f<>res://.godot/imported/Prickly pear cactus_PUSHILIN_prickly_pear_cactus.png-ef19642022781c9c49031d220017a90d.s3tc.ctex::
-Barrel cactus_BarrelCactus_BaseColor.png::CompressedTexture2D::4911648041397533898::1757921798::1757921801::1::::<><><>0<>0<>1099568013c84175c95485fb8d6fc259<>res://.godot/imported/Barrel cactus_BarrelCactus_BaseColor.png-4582db27db1aca748bc39d4e3ee2aa72.s3tc.ctex::
-::res://fonts/::1757853593
+::res://docs/::1757933427
+index.apple-touch-icon.png::CompressedTexture2D::5717272217074811209::1757933427::1757933572::1::::<><><>0<>0<>eebae9c050373adf200919459de1d81a<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::5818266904488118738::1757933427::1757933572::1::::<><><>0<>0<>eb9c14de30e3722842b22a959e590525<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::4162361436424520746::1757933427::1757933572::1::::<><><>0<>0<>bd7f2fff7b0e3145530e738ec364de71<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://fonts/::1757929570
 LICENSE.txt::TextFile/TextFile::-1::1757792235::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757792235::1757792277::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
 THSarabunNew Bold.ttf::FontFile/FontFile::8348069583739424730::1757853535::1757853536::1::::<><><>0<>0<>f6050c7982670cdd45c1327cabba164a<>res://.godot/imported/THSarabunNew Bold.ttf-4a1d586056649eea25686432c428a2ca.fontdata::
