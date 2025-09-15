@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://bnx24xrlxpyev"]
+
+[ext_resource type="FontFile" uid="uid://dq64qsirx4y87" path="res://fonts/THSarabunNew Bold.ttf" id="1_touxu"]
+
+[resource]
+default_font = ExtResource("1_touxu")
+default_font_size = 24
